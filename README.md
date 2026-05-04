@@ -27,7 +27,7 @@ The **PollenGEO** project, led by palynologist **Carlos Jaramillo** at STRI, bri
 | 📦 `pollen-classifier` | AI model for automated pollen grain identification trained on PollenGEO data |
 | 📦 `omero-qc-pipeline` | Quality control workflows: resolution checks, taxonomy validation, noise filtering |
  
-> 🔎 Browse all → **[`#omero-pollen`](https://github.com/tuusuario?tab=repositories&q=omero-pollen)**
+> 🔎 Browse all → **[`#omero-pollen`](https://github.com/PollenGeo?tab=repositories&q=omero-pollen)**
  
 ---
  
@@ -43,7 +43,7 @@ The **PollenGEO** project, led by palynologist **Carlos Jaramillo** at STRI, bri
 | 📦 `slide-scanner-processing` | Processing pipelines for Hamamatsu Nanozoomer whole-slide scans |
 | 📦 `bioimage-annotation` | Annotation tools for taxonomic labeling of pollen grain images |
  
-> 🔎 Browse all → **[`#bioimages`](https://github.com/tuusuario?tab=repositories&q=bioimages)**
+> 🔎 Browse all → **[`#bioimages`](https://github.com/PollenGeo?tab=repositories&q=bioimages)**
  
 ---
  
