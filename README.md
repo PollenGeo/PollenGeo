@@ -23,7 +23,7 @@ The **PollenGEO** project, led by palynologist **Carlos Jaramillo** at STRI, bri
  
 | Repository | Description |
 |---|---|
-| 📦 [Omero-Palynology-Course]([https://github.com/PollenGeo/Omero-Palynology-Course]) | Introduction to the Morphology of Pollen and Spores Using High-Resolution Images Obtained with Confocal, Brightfield, and Differential Interference Contrast Microscopy Techniques, Presented on the Omero Platform |
+| 📦 [Omero-Palynology-Course](https://github.com/PollenGeo/Omero-Palynology-Course) | Introduction to the Morphology of Pollen and Spores Using High-Resolution Images Obtained with Confocal, Brightfield, and Differential Interference Contrast Microscopy Techniques, Presented on the Omero Platform |
 | 📦 [Omero_shape-browser](https://github.com/PollenGeo/OMERO-Species-ROI-Search-Tool) | Python script to search species in OMERO ROI annotations and export matches with links to CSV |
 | 📦 [Omero_Grid](https://github.com/PollenGeo/Omero_Grid) | OMERO grid interface for navigating and organizing microscopy image collections |
 | 📦 [OMERO-Project-Dataset-CSV-Manager](https://github.com/PollenGeo/OMERO-Project-Dataset-CSV-Manager) | Automates structured creation and organization of Projects and Datasets in OMERO from a CSV file |
